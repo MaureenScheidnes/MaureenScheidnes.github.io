@@ -3,7 +3,7 @@ title: "Object relative clause comprehension in L2 children with limited L2 expo
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Leslie Redmond</p>'
-date: 2019-00-00
+date: 2019-01-01
 venue: '43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.lingref.com/bucld/43/BUCLD43-47.pdf'
