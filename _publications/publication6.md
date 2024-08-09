@@ -1,0 +1,20 @@
+---
+title: "Assessing successive bilinguals in two languages: A longitudinal look at English-speaking children in France"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Laurice Tuller</p>'
+date: 2016-01-01
+venue: 'Journal of Communication Disorders, 64, 45–61'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0021992416301381?via%3Dihub'
+citation: '<p><cite>Scheidnes, M., & Tuller, L. (2016). Assessing successive bilinguals in two languages: A longitudinal look at English-speaking children in France. Journal of Communication Disorders, 64, 45–61. 10.1016/j.jcomdis.2016.10.001</cite></p>'
+---
+
+<p><b>Abstract</b></p>
+This study examines longitudinal standardized test scores in both languages of a group of successive bilinguals with L1 English acquiring L2 French. Participants included 22 native English-speaking children living in France. French was evaluated using a standardized receptive vocabulary test, as well as tests of phonology and morphosyntax. English was evaluated using the Core Language Score subtests from the CELF-4-UK. The children varied in age (6;9–12;7) and length of exposure (0;11–3;9) to French and were tested twice at 12-month intervals. At T1, 7 children scored below norms in both languages, while only 3 did so at T2. Two out of these 3 were arguably not typically developing children. Length of exposure to French emerged as an important factor only at T1, when a number of children were in early stages of acquisition (≤18 months of exposure). English scores varied by age and weekly use of English. In successive bilingual children, language performance on L2 standardized tests can be expected to be (well) below norms during the first 18 months of exposure. English scores revealed that weak L1 performance is part of typical development in this bilingual context, but that L1 retention is also a possibility.
+
+<p><b>Learning outcomes</b></p>
+The reader will be able to: (1) describe challenges associated with language assessment of successive bilingual children, (2) describe the impact that age and length of exposure can have on language performance in bilinguals, and (3) understand how assessing successive bilinguals using monolingual norms can lead to underestimation of language abilities.
+
+<p><b>Introduction</b></p>
+Much of the work done on standardized test results in (successive) bilingual children has focused on cross-sectional analyses of children acquiring English as a second language (L2) in North America or in the United Kingdom. The present study seeks to contribute to the understanding of typical versus atypical development in successive bilinguals through the longitudinal examination of English-speaking children acquiring French as an L2 in France. These children were at least 4;0 before contact with French began (henceforth, L2 children) and therefore began L2 acquisition after major components of the L1 had already been acquired (Schwartz, 2004). We focus on standardized test scores in both languages, the tools used by speech-language pathologists (SLP), which were collected twice at 12-month intervals. Standardized scores from bilinguals are notoriously difficult to interpret, in part because appropriate norm-referencing populations for these learners are rarely available. Furthermore, the inherent variability in language performance across typically developing (TD) bilinguals contributes to the challenge of identifying (a)typical development in these children. Several language experience factors are thought to contribute to this heterogeneity. We focus here on age, quantity of language exposure, and cognitive factors (digit span and analytic reasoning) in a group of 22 successive bilingual children, none of whom had a diagnosis of language impairment.
