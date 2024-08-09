@@ -1,7 +1,7 @@
 ---
 title: "L2 children embed normally, but children with SLI do not."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication12
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes</p>'
 date: 2012-01-01
 # venue: 'In C. dos Santos & L. de Almeida (Eds.), Bilingualism and Specific Language Impairment: Selected Proceedings of Bi-SLI 2015'

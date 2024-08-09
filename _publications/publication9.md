@@ -1,7 +1,7 @@
 ---
 title: "Gender marking strategies in L2 children and monolingual children with SLI."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication9
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes</p>'
 date: 2015-01-01
 # venue: 'C. Hamann & E. Ruigendijk (Eds.), Language Acquisition and Development: Proceedings of Gala 2013 (pp. 416–428)'

@@ -1,7 +1,7 @@
 ---
 title: "Assessing successive bilinguals in two languages: A longitudinal look at English-speaking children in France"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication6
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Laurice Tuller</p>'
 date: 2016-01-01
 venue: 'Journal of Communication Disorders, 64, 45–61'

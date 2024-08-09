@@ -1,7 +1,7 @@
 ---
 title: "The impact of language experience on sentence repetition: How do children in immersion education compare to other bilinguals?"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication7
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes</p>'
 date: 2015-01-01
 # venue: 'Journal of Communication Disorders, 64, 45–61'

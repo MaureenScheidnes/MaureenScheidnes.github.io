@@ -1,7 +1,7 @@
 ---
 title: "Sentence repetition and non-word repetition in early total French immersion."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/publication2
 excerpt: '<p><b>Authors: </b><br>⦿ Maureen Scheidnes</p>'
 date: 2019-11-25
 venue: 'Applied Psycholinguistics , Volume 41 , Issue 1 , January 2020 , pp. 107 - 131'

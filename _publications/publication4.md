@@ -1,7 +1,7 @@
 ---
 title: "Using clausal embedding to identify language impairment in sequential bilinguals."
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/publication4
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Laurice Tuller</p>'
 date: 2018-09-18
 venue: 'Bilingualism: Language and Cognition, Volume 22, Issue 5, November 2019, pp.949 – 967'

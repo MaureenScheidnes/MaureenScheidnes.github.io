@@ -1,7 +1,7 @@
 ---
 title: "A Longitudinal Comparison of Object Clitic Production in the Spontaneous Language of L2 Children and Children with SLI"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication5
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes</p>'
 date: 2018-01-01
 venue: '42nd Annual Boston University Conference on Language Development (Vol. 2, pp. 694–707)'

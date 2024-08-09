@@ -1,7 +1,7 @@
 ---
 title: "The effect of linguistic experience on a non-word repetition task: Testing children with little exposure to their second language."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication8
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Morry, J.</p>'
 date: 2015-01-01
 # venue: 'In C. dos Santos & L. de Almeida (Eds.), Bilingualism and Specific Language Impairment: Selected Proceedings of Bi-SLI 2015'

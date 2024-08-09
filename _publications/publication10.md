@@ -1,7 +1,7 @@
 ---
 title: "Specific language impairment and bilingualism: Assembling the pieces."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication10
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Morry, J.</p>'
 date: 2015-01-01
 # venue: 'In C. dos Santos & L. de Almeida (Eds.), Bilingualism and Specific Language Impairment: Selected Proceedings of Bi-SLI 2015'

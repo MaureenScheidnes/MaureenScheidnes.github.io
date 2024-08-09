@@ -1,7 +1,7 @@
 ---
 title: "Object relative clause comprehension in L2 children with limited L2 exposure"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/publication3
 excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Leslie Redmond</p>'
 date: 2019-01-01
 venue: '43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611)'
