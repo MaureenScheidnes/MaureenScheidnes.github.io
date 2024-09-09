@@ -11,11 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. Beloit College
+* M.A. Université François-Rabelais de Tours
+* Ph.D.Université François-Rabelais de Tours
 
-Work experience
+Research Interests
+======
+My research focuses on bilingual language development. I am particularly interested in the acquisition of French in sequential and simultaneous bilinguals, as well as in children with typical and atypical development.
+
+I am currently working on a SSHRC-funded project (Language Experience and Linguistic Complexity in Child Bilingual Development: A Cross-learner Comparison) which focuses on the impact of language exposure on various language measures (sentence repetition, non-word repetition and standardized tests) in children acquiring French in early total immersion and in francophone school settings.
+
+Teaching Interests:
+======
+I hold a joint appointment in the Department of Linguistics and the Department of Modern Languages, Literatures and Cultures. I teach classes in linguistics as well as French language courses at both the intermediate and advanced levels.
+
+Contact Info:
+======
+Office: SN-4043
+Telephone: (709) 864-6206
+Email: mscheidnes[a]mun.ca
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -39,7 +55,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,7 +63,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +77,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
