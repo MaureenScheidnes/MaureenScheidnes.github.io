@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Portfolio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,9 +27,9 @@ I hold a joint appointment in the Department of Linguistics and the Department o
 
 Contact Info:
 ======
-Office: SN-4043
-Telephone: (709) 864-6206
-Email: mscheidnes[a]mun.ca
+- Office: SN-4043
+- Telephone: (709) 864-6206
+- Email: mscheidnes[a]mun.ca
 
 <!-- Work experience
 ======
