@@ -2,9 +2,9 @@
 title: "Object clitic production in French-speaking L2 children and children with SLI: A longitudinal comparison of elicited and spontaneous language"
 collection: publications
 permalink: /publication/publication1
-excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes <br>⦿ Laurice Tuller,<br>⦿ Philippe Prévost.</p>'
-date: 2020-07-01
-venue: 'Linguistic Approaches to Bilingualism, Volume 11, Issue 2, April 2021 (pages 259-288)'
+# excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes <br>⦿ Laurice Tuller,<br>⦿ Philippe Prévost.</p>'
+# date: 2020-07-01
+# venue: 'Linguistic Approaches to Bilingualism, Volume 11, Issue 2, April 2021 (pages 259-288)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch'
 citation: 'Scheidnes, Maureen, et al. “Object Clitic Production in French-Speaking L2 Children and Children with SLI: A Longitudinal Comparison of Elicited and Spontaneous Language.” Linguistic Approaches to Bilingualism, John Benjamins, 7 Jan. 2020, doi.org/10.1075/lab.18086.sch.'
