@@ -1,5 +1,5 @@
 ---
-title: "this is publication 13"
+# title: "this is publication 13"
 collection: publications
 permalink: /publication/publication13
 # excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Tuller, L.</p>'
