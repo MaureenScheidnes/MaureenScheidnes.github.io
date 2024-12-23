@@ -3,7 +3,7 @@ title: "Sentence repetition and non-word repetition in early total French immers
 # collection: publications
 # permalink: /publication/publication2
 # excerpt: '<p><b>Authors: </b><br>⦿ Maureen Scheidnes</p>'
-# date: 2019-11-25
+date: 2019-11-25
 # venue: 'Applied Psycholinguistics , Volume 41 , Issue 1 , January 2020 , pp. 107 - 131'
 # # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdfhttps://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C#article'
