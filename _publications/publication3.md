@@ -1,18 +1,19 @@
 ---
-title: "Object relative clause comprehension in L2 children with limited L2 exposure"
+title: "Scheidnes, M., & Redmond, L. (2019). Object relative clause comprehension in L2 children with limited L2 exposure. In M. M. Brown & B. Dailey (Eds.), BUCLD 43: Proceedings of the 43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611). Somerville, MA: Cascadilla Press."
 collection: publications
 permalink: /publication/publication3
-excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Leslie Redmond</p>'
+# excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Leslie Redmond</p>'
 date: 2019-01-01
-venue: '43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611)'
+# venue: '43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://www.lingref.com/bucld/43/BUCLD43-47.pdf'
-citation: '<p><cite>Scheidnes, M., & Redmond, L. (2019). Object relative clause comprehension in L2 children with limited L2 exposure. In M. M. Brown & B. Dailey (Eds.), BUCLD 43: Proceedings of the 43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611). Somerville, MA: Cascadilla Press. Available at http://www.lingref.com/bucld/43/BUCLD43-47.pdf</cite></p>'
+# paperurl: 'https://www.lingref.com/bucld/43/BUCLD43-47.pdf'
+# citation: '<p><cite>Scheidnes, M., & Redmond, L. (2019). Object relative clause comprehension in L2 children with limited L2 exposure. In M. M. Brown & B. Dailey (Eds.), BUCLD 43: Proceedings of the 43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611). Somerville, MA: Cascadilla Press. Available at http://www.lingref.com/bucld/43/BUCLD43-47.pdf</cite></p>'
 ---
 
-<p><b>Introduction</b></p>
+<p><b></b></p>
+<a href="https://www.lingref.com/bucld/43/BUCLD43-47.pdf">Paper URL</a>
 
-There is a rich literature on subject-object asymmetries in the acquisition of
+<!-- There is a rich literature on subject-object asymmetries in the acquisition of
 relative clauses in monolingual children. Since Friedmann, Belletti and Rizzi’s
 (2009) study on young typically developing (TD) children, work on relative
 clause acquisition has focused on the role of so-called intervention effects in
@@ -42,4 +43,4 @@ presents to this endeavor (e.g., Thordardottir & Brandeker, 2013), we focus on L
 children with very limited cumulative exposure to the L2 compared to the L1.
 This focus will allow us to see whether object relative clauses, which are mastered
 late in L1 acquisition, are also acquired late (i.e., after considerable L2 exposure)
-in L2 children, or whether a different pattern emerges. 
+in L2 children, or whether a different pattern emerges.  -->
