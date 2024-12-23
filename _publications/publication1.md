@@ -6,8 +6,9 @@ permalink: /publication/publication1
 # date: 2020-07-01
 # venue: 'Linguistic Approaches to Bilingualism, Volume 11, Issue 2, April 2021 (pages 259-288)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch'
-citation: 'Scheidnes, Maureen, et al. “Object Clitic Production in French-Speaking L2 Children and Children with SLI: A Longitudinal Comparison of Elicited and Spontaneous Language.” Linguistic Approaches to Bilingualism, John Benjamins, 7 Jan. 2020, doi.org/10.1075/lab.18086.sch.'
+paperurl: "<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch">link text</a>"
+ citation: '<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch">link text</a>'
+#  'Scheidnes, Maureen, et al. “Object Clitic Production in French-Speaking L2 Children and Children with SLI: A Longitudinal Comparison of Elicited and Spontaneous Language.” Linguistic Approaches to Bilingualism, John Benjamins, 7 Jan. 2020, doi.org/10.1075/lab.18086.sch.'
 ---
 
 <p><b>Abstract</b></p>
