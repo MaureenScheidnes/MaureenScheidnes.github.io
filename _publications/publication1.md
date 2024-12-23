@@ -1,18 +1,9 @@
 ---
-title: "1 - Sentence repetition and non-word repetition in early total French immersion."
+title: "Object clitic production in French-speaking L2 children and children with SLI: A longitudinal comparison of elicited and spontaneous language"
 collection: publications
-permalink: /publication/publication2
-# excerpt: '<p><b>Authors: </b><br>⦿ Maureen Scheidnes</p>'
-date: 2019-11-25
-venue: 'Applied Psycholinguistics , Volume 41 , Issue 1 , January 2020 , pp. 107 - 131'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper2.pdfhttps://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C#article'
-# citation: '<p><a href="http://academicpages.github.io/files/paper2.pdfhttps://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C#article">link text</a></p>'
 ---
-
-<p><b>Abstract</b></p>
-Recent<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-
+<!-- <p><b>Abstract</b></p> -->
+Recent<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch">Paper URL</a>
 <!-- ---
 title: "Object clitic production in French-speaking L2 children and children with SLI: A longitudinal comparison of elicited and spontaneous language"
 collection: publications
