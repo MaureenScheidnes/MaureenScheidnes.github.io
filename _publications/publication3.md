@@ -3,7 +3,7 @@ title: "Scheidnes, M., & Redmond, L. (2019). Object relative clause comprehensio
 collection: publications
 permalink: /publication/publication3
 # excerpt: '<p><b>Authors:</b><br>⦿ Maureen Scheidnes<br>⦿ Leslie Redmond</p>'
-date: 2019-01-01
+date: 2019
 # venue: '43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'https://www.lingref.com/bucld/43/BUCLD43-47.pdf'
