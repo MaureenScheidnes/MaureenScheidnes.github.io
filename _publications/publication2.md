@@ -1,5 +1,5 @@
 ---
-# title: "Scheidnes, M. (2020). Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics, 41, 107–131."
+title: "Scheidnes, M. (20-20). Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics, 41, 107–131."
 # collection: publications
 # permalink: /publication/publication2
 # excerpt: '<p><b>Authors: </b><br>⦿ Maureen Scheidnes</p>'
