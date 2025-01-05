@@ -10,7 +10,7 @@ title: <p>Scheidnes2, M., Tuller, L., & Prévost, P. (2020). Object clitic produ
 # venue: 'Applied Psycholinguistics , Volume 41 , Issue 1 , January 2020 , pp. 107 - 131'
 # # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdfhttps://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C#article'
-citation: '<p><cite>Scheidnes M. Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics. 2020;41(1):107-131. doi:10.1017/S0142716419000420</cite> <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C">Paper URL</a></p>'
+# citation: '<p><cite>Scheidnes M. Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics. 2020;41(1):107-131. doi:10.1017/S0142716419000420</cite> <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C">Paper URL</a></p>'
 ---
 <!-- <p><b></b></p>
 <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/sentence-repetition-and-nonword-repetition-in-early-total-french-immersion/2AFB36583A78D050B0E0B8A66EF89C3C">Paper URL</a> -->
