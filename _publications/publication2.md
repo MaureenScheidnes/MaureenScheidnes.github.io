@@ -1,6 +1,6 @@
 ---
 title: <p>
-    <font size="2">Scheidnes2, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></font>
+   Scheidnes2, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></font>
 </p>
 
 
