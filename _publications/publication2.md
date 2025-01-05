@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "dd"
 # "Scheidnes, M. (20-20). Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics, 41, 107–131."
 # collection: publications
 # permalink: /publication/publication2
