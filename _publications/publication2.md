@@ -1,7 +1,8 @@
 ---
-title: <p style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-    Scheidnes2, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em>
+title: <p>
+    <font size="2">Scheidnes2, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></font>
 </p>
+
 
 # "Scheidnes, M. (20-20). Sentence repetition and non-word repetition in early total French immersion. Applied Psycholinguistics, 41, 107–131."
 # collection: publications
