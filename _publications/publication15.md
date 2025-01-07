@@ -1,5 +1,5 @@
 ---
-title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
+title: "Scheidnes, M., & Tuller, L. (2014). L2 children embed normally, but children with SLI do not. In A. Fieis & M. J. Freitas (Eds.), *New Directions in the Acquisition of Romance Languages: Selected Proceedings of the Romance Turn V (pp. 261–284).* Newcastle upon Tyne: Cambridge Scholars Publishing"
 ---
 <p><b></b></p>
 <a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>

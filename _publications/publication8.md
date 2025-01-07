@@ -1,5 +1,3 @@
 ---
-title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
+title: "Scheidnes, M. (accepted). The impact of language experience on sentence repetition: How do children in immersion education compare to other bilinguals? In C. dos Santos & L. de Almeida (Eds.), *Bilingualism and Specific Language Impairment: Selected Proceedings of Bi-SLI 2015.*"
 ---
-<p><b></b></p>
-<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>

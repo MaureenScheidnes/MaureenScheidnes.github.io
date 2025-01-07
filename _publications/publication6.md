@@ -1,5 +1,5 @@
 ---
-title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
+title: "Scheidnes, M., & Tuller, L. (2016). Assessing successive bilinguals in two languages: A longitudinal look at English-speaking children in France. *Journal of Communication Disorders, 64, 45–61.*"
 ---
 <p><b></b></p>
-<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>
+<a href="https://doi.org/10.1016/j.jcomdis.2016.10.001"><u>Paper Url</u></a>
