@@ -1,17 +1,5 @@
 ---
-title: “Publication Title"
-collection: publications
-permalink: /publication/publication15.md
-#excerpt: '<p>Authors:<br>⦿Maureen Scheidnes <br>⦿ Author 2 Name,<br>⦿ Author 3 Name.</p>’ 
-#date: 2020-07-01
-#venue: 'Linguistic Approaches to Bilingualism, Volume 11, Issue 2, April 2021 (pages 259-288)'
-#paperurl: ‘Link to Page'
-citation: ‘<p><cite>Enter Citation here</cite></p>'
-
-
-<p><b>sdgejdgkjsbs</b></p>
-Some details could Be added here like description
+title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
 ---
-
-
-Some details could Be added here like description
+<p><b></b></p>
+<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>

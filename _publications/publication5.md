@@ -1,7 +1,5 @@
 ---
-title: "A Longitudinal Comparison of Object Clitic Production in the Spontaneous Language of L2 Children and Children with SLI"
-
-paperurl: 'https://www.lingref.com/bucld/42/BUCLD42-54.pdf'
-
+title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
 ---
-
+<p><b></b></p>
+<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>

@@ -1,6 +1,5 @@
 ---
-title: "Using clausal embedding to identify language impairment in sequential bilinguals."
-
-paperurl: 'https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/abs/using-clausal-embedding-to-identify-language-impairment-in-sequential-bilinguals/170D338E38374DBC46C99479DEA738D0'
-
+title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
 ---
+<p><b></b></p>
+<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>
