@@ -1,5 +1,5 @@
 ---
-title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
+title: <p>Scheidnes, M. (2020). Sentence repetition and non-word repetition in early total French immersion.<br><em>Applied Psycholinguistics, 41, 107–131.</em></p>
 ---
 <p><b></b></p>
-<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>
+<a href="https://doi.org/10.1017/S0142716419000420"><u>Paper URL</u></a>

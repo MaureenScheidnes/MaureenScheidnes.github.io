@@ -1,5 +1,5 @@
 ---
-title: <p>Scheidnes, M., Tuller, L., & Prévost, P. (2020). Object clitic production in French-speaking L2 children and children with SLI. A longitudinal comparison of elicited and spontaneous language. <em>Linguistic Approaches to Bilingualism</em></p>
+title: <p>Scheidnes, M., & Redmond, L. (2019). Object relative clause comprehension in L2 children with limited L2 exposure. In M. M. Brown & B. Dailey (Eds.), <em> BUCLD 43: Proceedings of the 43nd Annual Boston University Conference on Language Development (Vol. 2, pp. 599–611).</em> Somerville, MA: Cascadilla Press.</p>
 ---
 <p><b></b></p>
-<a href="https://www.jbe-platform.com/content/journals/10.1075/lab.18086.sch"><u>Paper URL</u></a>
+<a href="https://www.lingref.com/bucld/43/BUCLD43-47.pdf"><u>Paper URL</u></a>
