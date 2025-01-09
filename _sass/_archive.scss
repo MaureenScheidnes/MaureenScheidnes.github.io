@@ -29,6 +29,7 @@
 .archive__item-title {
   font-size: 20px !important; /* Replace 18px with your desired size */
   font-family: 'Calibri' !important;
+  pointer-events: none !important;
 }
 
 .archive__subtitle {
