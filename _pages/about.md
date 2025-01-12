@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests::
+Research Interests:
 ======
 My research focuses on bilingual language development. I am particularly interested in the acquisition of French in sequential and simultaneous bilinguals, as well as in children with typical and atypical development.
 
