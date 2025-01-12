@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+        
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "talk"
   #   url: /talk/    
@@ -9,14 +12,12 @@ main:
 #  - title: "Teaching"
 #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
