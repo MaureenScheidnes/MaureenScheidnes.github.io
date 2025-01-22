@@ -9,9 +9,7 @@ redirect_from:
 
 Research Interests:
 ======
-My research focuses on bilingual language development. I am particularly interested in the acquisition of French in sequential and simultaneous bilinguals, as well as in children with typical and atypical development.
-
-I am currently working on a SSHRC-funded project (Language Experience and Linguistic Complexity in Child Bilingual Development: A Cross-learner Comparison) which focuses on the impact of language exposure on various language measures (sentence repetition, non-word repetition and standardized tests) in children acquiring French in early total immersion and in francophone school settings.
+My research focuses on bilingual language development in children and adults. I am particularly interested in the acquisition of morphosyntax in French and English learners and in identifying typical versus atypical language performance patterns in bilingual children.
 
 Teaching Interests:
 ======
