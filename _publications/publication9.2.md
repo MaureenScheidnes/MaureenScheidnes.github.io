@@ -1,6 +1,4 @@
 ---
-title: "Scheidnes, M., & Dzormeku, P. (2025). Comparing morphological and phonological cues in grammatical gender assignment in French as a second language. Poster presented at the *International Symposium on Bilingualiam*, June 12, San Sebastian."
+Scheidnes, M., & Redmond, L. (2024). Is object relative clause comprehension particularly sensitive to quantity of language exposure in sequential bilingual children? In H. Weifeng & C. Brebner (Eds.), *Typical and Atypical Language Development in Cultural and Linguistic Diversity (pp. 64–82).* Routledge.
 <p><b></b></p>
-<a href="_publications/Comparing morphological and phonological cues in grammatical gender assignment in French as a second language.pdf"><u>Paper URL</u></a>
 ---
-
